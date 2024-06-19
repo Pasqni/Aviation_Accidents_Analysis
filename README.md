@@ -11,4 +11,4 @@ The dataset contains 9 attributes:
 - country: country of the incident
 - cat: category of the incident as described by ASN
 
-the tools used for this analysis are 'pandas', 'numpy', 'matplotlib' and 'geopandas'
+the tools used for this analysis are `pandas`, `numpy`, `matplotlib` and `geopandas`.
